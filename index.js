@@ -5,4 +5,8 @@ console.log('whatever')
 audio.addEventListener('click', function(){
 	console.log('whatever')
 })
+console.log('whatever')
+console.log('whatever')
+console.log('whatever')
+
 
